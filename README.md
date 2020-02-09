@@ -9,4 +9,5 @@ The tools used in the making of this project are :
    FLASK
 3) BACK-END :
    MySQL
-   
+4) PROGRAMMING-LANGUAGE :
+   PYTHON 
