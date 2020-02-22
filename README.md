@@ -29,7 +29,7 @@ Dependencies of these two modules are shown below:
 1. Python/Flask
 1. CSS
 
-#### _Pacakages to install:_
+#### _Packages to install:_
 * flask
 * flask_mysqldb 
 * wtforms 
