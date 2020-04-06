@@ -25,9 +25,9 @@ Dependencies of these two modules are shown below:
 ![Alt Text](Extras/dependency.png)
 
 #### _Programming language used in the project are :_
-1. HTML
-1. Python/Flask
-1. CSS
+1. HTML 5
+2. Python/Flask
+3. CSS 3
 
 #### _Packages to install:_
 * flask
